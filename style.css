@@ -1,0 +1,51 @@
+body {
+background-color: rgb(68, 0, 68)
+
+}
+body {
+font-family: sans-serif
+}
+
+body {
+color: rgb(196, 196, 196);
+}
+
+.underlined {
+text-decoration: underline;
+color: white;
+}
+div{
+    display: flex;
+    gap: 15px;
+}
+.rating_colorGUD {
+color: rgb(41, 155, 41);
+font-size: 48px;
+}
+
+.rating_colorOK {
+color: rgb(240, 170, 39);
+font-size: 48px;
+}
+
+.rating_colorOP {
+color: rgb(44, 247, 44);
+font-size: 48px;
+
+}
+
+nav a{
+    color: white;
+    margin: 0 8px;
+}
+
+nav a {
+border
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    gap: 20px;
+}
