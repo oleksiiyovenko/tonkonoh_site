@@ -1,12 +1,6 @@
 body {
-background-color: rgb(68, 0, 68)
-
-}
-body {
-font-family: sans-serif
-}
-
-body {
+background-color: rgb(68, 0, 68);
+font-family: sans-serif;
 color: rgb(196, 196, 196);
 }
 
@@ -39,8 +33,11 @@ nav a{
     margin: 0 8px;
 }
 
-nav a {
-border
+nav {
+border: 1.5px solid rgb(202, 202, 202);
+padding: 8px;
+margin: 3px;
+border-radius: 5px;
 }
 
 header{
@@ -48,4 +45,9 @@ header{
     align-items: center;
     justify-self: center;
     gap: 20px;
+}
+
+footer a {
+color: rgb(92, 92, 197);
+
 }
